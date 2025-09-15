@@ -1,9 +1,9 @@
 {
-    "name": "t3n/graphql-tools",
+    "name": "oniva/graphql-tools",
     "description": "A PHP port of apollo graphQL-tools",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/t3n/graphql-tools",
+    "homepage": "https://github.com/onivaevents/graphql-tools",
     "keywords": [
         "graphql",
         "graphql-tools"

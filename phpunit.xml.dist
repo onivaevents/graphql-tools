@@ -9,7 +9,7 @@
     <ini name="error_reporting" value="E_ALL"/>
   </php>
   <testsuites>
-    <testsuite name="t3n/graphql-tools Test Suite">
+    <testsuite name="oniva/graphql-tools Test Suite">
       <directory>./tests/</directory>
     </testsuite>
   </testsuites>
